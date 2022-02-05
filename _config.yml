@@ -8,4 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+  evants:
+    title: evants
+    output: true
 gem: jekyll-sitemap
