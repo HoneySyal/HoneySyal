@@ -11,4 +11,7 @@ collections:
   evants:
     title: evants
     output: true
+  news:
+    title: news
+    output: true
 gem: jekyll-sitemap
